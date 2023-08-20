@@ -1,7 +1,10 @@
 # Hello 👋 I am Leonardo, a full stack developer.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leocaridade&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leocaridade&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div>
+<a href="https://github.com/leocaridade">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocaridade&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leocaridade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 # SKILLS
 
